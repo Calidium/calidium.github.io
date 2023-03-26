@@ -1,2 +1,2 @@
-<a href="something" class="button6">Ok</a>
-<a href="something" class="button6" style="background-color:#668fff">Cancel</a>
+<a href="style.css" class="button6">Ok</a>
+<a href="style.css" class="button6" style="background-color:#668fff">Cancel</a>
